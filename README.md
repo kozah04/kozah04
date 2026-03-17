@@ -1,6 +1,20 @@
 # Hi, I'm Gwachat 👋
 
-A data scientist passionate about using data to tell meaningful stories.
+Applied data scientist focused on African economic and social data. 
+I work across the full stack - from exploratory analysis and statistical 
+modelling to production pipelines and deployed apps.
+
+---
+
+## 📂 Featured Projects
+
+| Project | Methods | |
+|---|---|---|
+| [Nigerian SME Segmentation](link) | K-Means, PCA, Unsupervised Learning | 🟢 |
+| [Loan Default Risk Model](link) | Ensemble, Stacking, Imbalanced Classes | 🟢 |
+| [Naira/CBN Sentiment Analysis](link) | NLP, Classification, Transformers | 🟢 |
+| [Nigerian Fuel Subsidy Impact](link) | Regression, Structural Break, Time Series | 🟢 |
+| [Spotify Listening Tracker](link) | EDA, Stats, Streamlit, API | 🟢 |
 
 ---
 
@@ -13,9 +27,10 @@ A data scientist passionate about using data to tell meaningful stories.
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
 ---
 
 ## 📬 Get in Touch
 
 - 📧 gwachatkozah04@gmail.com
-- 💼 Open to data science and analytics roles
+- 💼 Open to data science and ML engineering roles
