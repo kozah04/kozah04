@@ -2,19 +2,7 @@
 
 Applied data scientist focused on African economic and social data. 
 I work across the full stack - from exploratory analysis and statistical 
-modelling to production pipelines and deployed apps.
-
----
-
-## 📂 Featured Projects
-
-| Project | Methods | |
-|---|---|---|
-| [Nigerian SME Segmentation](link) | K-Means, PCA, Unsupervised Learning | 🟢 |
-| [Loan Default Risk Model](link) | Ensemble, Stacking, Imbalanced Classes | 🟢 |
-| [Naira/CBN Sentiment Analysis](link) | NLP, Classification, Transformers | 🟢 |
-| [Nigerian Fuel Subsidy Impact](link) | Regression, Structural Break, Time Series | 🟢 |
-| [Spotify Listening Tracker](link) | EDA, Stats, Streamlit, API | 🟢 |
+modelling to production pipelines.
 
 ---
 
