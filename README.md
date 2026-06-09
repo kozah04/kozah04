@@ -1,6 +1,6 @@
 # Hi, I'm Gwachat 👋
 
-Applied data scientist focused on African economic and social data. 
+Applied data scientist focused on economic and social data. 
 
 ---
 
