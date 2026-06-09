@@ -1,8 +1,6 @@
 # Hi, I'm Gwachat 👋
 
 Applied data scientist focused on African economic and social data. 
-I work across the full stack - from exploratory analysis and statistical 
-modelling to production pipelines.
 
 ---
 
