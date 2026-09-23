@@ -1,6 +1,6 @@
 # Hi, I'm Gwachat 👋
 
-Applied data scientist focused on economic and social data. 
+A data science and machine learning enthusiast focused on economic and social data. 
 
 ---
 
